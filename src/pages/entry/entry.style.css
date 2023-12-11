@@ -1,0 +1,16 @@
+.entry-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.form-box {
+    width: 100%;
+    max-width: 500px;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
