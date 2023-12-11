@@ -1,27 +1,31 @@
 .br-0 {
-    border-radius: 0 !important;
+  border-radius: 0 !important;
 }
 
 .default-layout {
-    display: grid;
-    grid-template-rows: 1fr 12fr;
-    grid-template-areas: "header" "main" "footer";
-    height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr 12fr;
+  grid-template-areas: "header" "main" "footer";
+  height: 100vh;
 }
 
 .header {
-    grid-area: header; 
-    background-color: #fff;
+  grid-area: header;
+  background-color: #fff;
 }
 
 .main {
-    grid-area: main;
-    background-color: #fff;
+  grid-area: main;
+  background-color: #fff;
 }
 
 .footer {
-    grid-area: footer;
-    background: rgb(33, 33, 33);
-    color: #fff;
-    padding: 0.5rem;
+  grid-area: footer;
+  background: rgb(33, 33, 33);
+  color: #fff;
+  padding: 0.5rem;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: " > ";
 }

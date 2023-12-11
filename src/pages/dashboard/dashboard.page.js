@@ -2,11 +2,17 @@ import React from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import { TicketTable } from "../../components/table/table.comp";
 import tickets from "../../assets/data/mock_data.json";
+import { PageBreadcrumb } from "../../components/breadcrumb/breadcrumb.comp";
 
 export const Dashboard = () => {
   return (
     <div>
       <Container>
+        <Row>
+          <Col className="text-center mt-5 mb-2">
+            <PageBreadcrumb page="Dashboard" />
+           </Col> 
+        </Row>
         <Row>
           <Col className="text-center mt-5 mb-2">
             <Button variant="info" type="submit" className="br-0">
