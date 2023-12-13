@@ -4,7 +4,24 @@
     "subject": "Login API is not working",
     "status": "Pending",
     "openDate": "2021-03-28",
-    "closeDate": "2022-10-21"
+    "closeDate": "2022-10-21",
+    "history": [
+      {
+        "date": "2021-03-28",
+        "massage": "Hello, I am facing issue with login API. Please help me to resolve this issue.",
+        "massageBy": "Client"
+      },
+      {
+        "date": "2021-04-20",
+        "massage": "Hi, I am working on this issue. I will update you soon.",
+        "massageBy": "Operator"
+      },
+      {
+        "date": "2021-06-18",
+        "massage": "Hey, I am still working on this issue. I will update you soon.",
+        "massageBy": "Client"
+      }
+    ]
   },
   {
     "id": "2",
