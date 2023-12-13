@@ -16,7 +16,7 @@ export const Dashboard = () => {
         </Row>
         <Row>
           <Col className="text-center my-5">
-            <Button variant="info" type="submit" className="br-0">
+            <Button variant="info" type="submit">
               <div>
                 <img
                   src="https://img.icons8.com/ios/60/ffffff/plus.png"

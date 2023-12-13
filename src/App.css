@@ -38,3 +38,7 @@
 .navbar-toggler.collapsed {
   border-radius: 0 !important;
 }
+
+.btn {
+  border-radius: 0 !important;
+}

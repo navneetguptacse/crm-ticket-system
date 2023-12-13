@@ -35,7 +35,7 @@ export const TicketLists = () => {
       </Row>
       <Row className="mt-5">
         <Col>
-          <Button variant="info" className="br-0">
+          <Button variant="info">
             Add New Ticket
           </Button>
         </Col>

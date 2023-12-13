@@ -26,7 +26,7 @@ export const Reset = ({ handleOnChange, handleOnResetSubmit, formSwitcher, email
                   We'll never share your email with anyone else.
                 </Form.Text>
                 
-                <Button variant="info" type="submit" className="br-0">
+                <Button variant="info" type="submit">
                   Reset
                 </Button>
               </Form.Group>

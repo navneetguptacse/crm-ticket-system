@@ -62,7 +62,7 @@ export const AddTicketForm = ({
             required
           />
         </Form.Group>
-        <Button type="submit" variant="info" className="br-0" block>
+        <Button type="submit" variant="info" block>
           Submit
         </Button>
       </Form>
