@@ -11,14 +11,14 @@ export const UpdateTicket = ({ msg, handleOnChange, handleOnSubmit }) => {
       </Form.Text>
       <Form.Control
         as="textarea"
-        row="5"
+        rows="5"
         name="detail"
         value={msg}
         onChange={handleOnChange}
         className="br-0 text-secondary"
       />
       <div className="text-right mt-3 mb-3">
-        <Button variant="info">Reply</Button>
+        <Button variant="info" type="submit">Reply</Button>
       </div>
     </Form>
   );
