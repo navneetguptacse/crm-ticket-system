@@ -33,3 +33,8 @@
 .breadcrumb {
   border-radius: 0 !important;
 }
+
+.navbar-toggler,
+.navbar-toggler.collapsed {
+  border-radius: 0 !important;
+}

@@ -1,58 +1,212 @@
 [
   {
     "id": "1",
-    "matter": "Unable to Connect to Server",
+    "subject": "Login API is not working",
     "status": "Pending",
-    "openDate": "2019-01-01",
-    "closeDate": "2019-01-01"
+    "openDate": "2021-03-28",
+    "closeDate": "2022-10-21"
   },
   {
     "id": "2",
-    "matter": "Unable to Connect to Server",
+    "subject": "Invalid Credentials",
     "status": "Pending",
-    "openDate": "2019-01-01",
-    "closeDate": "2019-01-01"
+    "openDate": "2019-06-18",
+    "closeDate": "2019-08-23"
   },
   {
     "id": "3",
-    "matter": "Unable to Connect to Server",
+    "subject": "Network Disconnection",
     "status": "Open",
-    "openDate": "2019-01-01",
-    "closeDate": "2019-01-01"
+    "openDate": "2019-05-03",
+    "closeDate": "2021-11-30"
   },
   {
     "id": "4",
-    "matter": "Internet is not working",
-    "status": "Open",
-    "openDate": "2019-01-01",
-    "closeDate": "2019-01-01"
+    "subject": "Internet is not working",
+    "status": "Pending",
+    "openDate": "2019-02-19",
+    "closeDate": "2022-08-28"
   },
   {
     "id": "5",
-    "matter": "Failed to Login",
-    "status": "Closed",
-    "openDate": "2019-01-01",
-    "closeDate": "2019-01-01"
+    "subject": "Service Unavailable",
+    "status": "Open",
+    "openDate": "2022-01-05",
+    "closeDate": "2022-12-30"
   },
   {
     "id": "6",
-    "matter": "Server is down",
-    "status": "Closed",
-    "openDate": "2019-01-01",
-    "closeDate": "2019-01-01"
+    "subject": "Internet is not working",
+    "status": "Open",
+    "openDate": "2020-04-17",
+    "closeDate": "2019-02-26"
   },
   {
     "id": "7",
-    "matter": "Login API is not working",
+    "subject": "File Not Found",
     "status": "Pending",
-    "openDate": "2019-01-01",
-    "closeDate": "2019-01-01"
+    "openDate": "2022-11-27",
+    "closeDate": "2020-10-15"
   },
   {
     "id": "8",
-    "matter": "Internet is not working",
+    "subject": "Login API is not working",
+    "status": "Open",
+    "openDate": "2019-06-03",
+    "closeDate": "2021-01-13"
+  },
+  {
+    "id": "9",
+    "subject": "Authentication Error",
+    "status": "Open",
+    "openDate": "2020-12-02",
+    "closeDate": "2020-03-20"
+  },
+  {
+    "id": "10",
+    "subject": "Data Corruption",
+    "status": "Open",
+    "openDate": "2020-01-27",
+    "closeDate": "2019-05-16"
+  },
+  {
+    "id": "11",
+    "subject": "Permission Denied",
+    "status": "Pending",
+    "openDate": "2020-03-03",
+    "closeDate": "2019-12-30"
+  },
+  {
+    "id": "12",
+    "subject": "Data Corruption",
     "status": "Closed",
-    "openDate": "2019-01-01",
+    "openDate": "2019-07-04",
+    "closeDate": "2019-11-17"
+  },
+  {
+    "id": "13",
+    "subject": "Invalid Credentials",
+    "status": "Open",
+    "openDate": "2021-01-15",
+    "closeDate": "2019-06-26"
+  },
+  {
+    "id": "14",
+    "subject": "Permission Denied",
+    "status": "Open",
+    "openDate": "2021-10-16",
+    "closeDate": "2022-02-09"
+  },
+  {
+    "id": "15",
+    "subject": "Database Connection Failure",
+    "status": "Pending",
+    "openDate": "2021-02-12",
+    "closeDate": "2021-11-14"
+  },
+  {
+    "id": "16",
+    "subject": "Database Query Error",
+    "status": "Pending",
+    "openDate": "2020-08-19",
+    "closeDate": "2019-03-11"
+  },
+  {
+    "id": "17",
+    "subject": "Memory Overflow",
+    "status": "Pending",
+    "openDate": "2022-09-20",
+    "closeDate": "2021-11-28"
+  },
+  {
+    "id": "18",
+    "subject": "Internet is not working",
+    "status": "Open",
+    "openDate": "2021-02-14",
+    "closeDate": "2019-05-26"
+  },
+  {
+    "id": "19",
+    "subject": "Network Disconnection",
+    "status": "Pending",
+    "openDate": "2022-08-11",
     "closeDate": "2019-01-01"
+  },
+  {
+    "id": "20",
+    "subject": "Invalid Credentials",
+    "status": "Open",
+    "openDate": "2020-07-01",
+    "closeDate": "2022-04-20"
+  },
+  {
+    "id": "21",
+    "subject": "Network Disconnection",
+    "status": "Open",
+    "openDate": "2021-02-05",
+    "closeDate": "2021-10-25"
+  },
+  {
+    "id": "22",
+    "subject": "Memory Overflow",
+    "status": "Open",
+    "openDate": "2019-11-23",
+    "closeDate": "2022-01-24"
+  },
+  {
+    "id": "23",
+    "subject": "Internet is not working",
+    "status": "Open",
+    "openDate": "2022-01-12",
+    "closeDate": "2019-01-19"
+  },
+  {
+    "id": "24",
+    "subject": "Invalid Credentials",
+    "status": "Open",
+    "openDate": "2021-05-07",
+    "closeDate": "2020-01-14"
+  },
+  {
+    "id": "25",
+    "subject": "Database Query Error",
+    "status": "Closed",
+    "openDate": "2022-04-09",
+    "closeDate": "2021-11-13"
+  },
+  {
+    "id": "26",
+    "subject": "Database Query Error",
+    "status": "Open",
+    "openDate": "2021-01-09",
+    "closeDate": "2020-03-07"
+  },
+  {
+    "id": "27",
+    "subject": "Service Unavailable",
+    "status": "Open",
+    "openDate": "2020-05-27",
+    "closeDate": "2022-01-24"
+  },
+  {
+    "id": "28",
+    "subject": "Permission Denied",
+    "status": "Pending",
+    "openDate": "2021-08-22",
+    "closeDate": "2019-07-17"
+  },
+  {
+    "id": "29",
+    "subject": "Network Disconnection",
+    "status": "Closed",
+    "openDate": "2020-07-18",
+    "closeDate": "2022-11-23"
+  },
+  {
+    "id": "30",
+    "subject": "Authentication Error",
+    "status": "Open",
+    "openDate": "2022-06-10",
+    "closeDate": "2022-07-29"
   }
 ]
