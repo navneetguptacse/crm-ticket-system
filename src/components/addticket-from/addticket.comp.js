@@ -9,7 +9,7 @@ export const AddTicketForm = ({
   formData,
   formErrorData,
 }) => {
-  console.log(formData);
+  // console.log(formData);
   return (
     <Jumbotron className="mt-3 br-0">
       <h1 className="text-info text-center">Add New Ticket</h1>
