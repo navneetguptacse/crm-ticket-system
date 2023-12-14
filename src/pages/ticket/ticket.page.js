@@ -6,6 +6,7 @@ import { MsgHistory } from "../../components/msg-history/msghistory.comp";
 import { UpdateTicket } from "../../components/update-ticket/updateticket.comp";
 
 const ticket = tickets[0];
+
 export const Ticket = () => {
   const [message, setMessage] = useState("");
 
@@ -16,7 +17,7 @@ export const Ticket = () => {
   };
 
   const handleOnSubmit = (e) => {
-    alert("Form Submitted");
+    alert("Form Submitted"); // Start here
   };
 
   return (
