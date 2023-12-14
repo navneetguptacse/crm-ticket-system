@@ -4,7 +4,6 @@ import "./msghistory.style.css";
 
 export const MsgHistory = ({ msg }) => {
   if (!msg.length) return null;
-    console.log(msg);
   return msg.map((row, i) => (
     <div key={i} className="msg-history mt-2">
       <div className="send-msg font-weight-bold text-secondary">
